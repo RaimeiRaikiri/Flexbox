@@ -10,6 +10,8 @@
 .top-img {
     width: 600px;
     height: 250px;
+    flex-shrink: 0.7;
+    flex-basis: auto;
     
 }
 .left-one {
@@ -18,12 +20,14 @@
     width:400px;
     height: 250px;
     margin-right: 100px;
+    min-width: 400px;
     
 }
 .color-box {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
+    min-width: 850px;
 }
 header {
     display: flex;
