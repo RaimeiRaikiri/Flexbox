@@ -2,6 +2,8 @@
 .main-one {
     display: flex;
     margin: 0 100px;
+    margin-top: 50px;
+    background-color: #1F2937;
 }
 .top-img {
     width: 300px;
@@ -11,7 +13,12 @@ header {
     display: flex;
     justify-content: center;
     margin: 0 100px;
-    
+    background-color: #1F2937;
+}
+.awesome {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
 }
 .links {
     display: flex;
