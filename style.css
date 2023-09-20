@@ -5,17 +5,19 @@
     
     background-color: #1F2937;
     
+    
 }
 .top-img {
-    width: 450px;
+    width: 550px;
     height: 250px;
+    
 }
 .left-one {
     display: flex;
     flex-direction: column;
     width:400px;
     height: 250px;
-    margin-right: 50px;
+    margin-right: 150px;
     
 }
 .color-box {
@@ -25,10 +27,11 @@
 }
 header {
     display: flex;
-    justify-content: center;
+    
     padding: 0 200px;
     background-color: #1F2937;
     padding-top: 14px;
+    
     
 }
 .secondary-text {
@@ -65,3 +68,6 @@ a {
     color: #F9FAF8;
 }
 
+.section-three {
+    display: flex;
+}
