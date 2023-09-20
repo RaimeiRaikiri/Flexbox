@@ -71,3 +71,12 @@ a {
 .section-three {
     display: flex;
 }
+ 
+.img {
+    width: 100px;
+    height: 100px;
+    border: 120px rgb(255, 0, 174);
+}
+.img-border {
+    border: 120px rgb(255, 0, 174);
+}
