@@ -1,4 +1,12 @@
 
+.main-one {
+    display: flex;
+    margin: 0 100px;
+}
+.top-img {
+    width: 300px;
+    height: 300px;
+}
 header {
     display: flex;
     justify-content: center;
