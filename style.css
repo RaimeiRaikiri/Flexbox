@@ -107,6 +107,7 @@ a {
 }
 .subtext {
     margin: 0;
+    padding-bottom: 150px;
 }
 .section-four, .quote, .name {
     display: flex;
@@ -114,10 +115,19 @@ a {
 .section-four {
     flex-direction: column;
     background-color: #E5E7EB;
+   align-items: center;
 }
 .quote {
     font-size: 36px;
     font-style: italic;
     font-weight: 300;
     color:#1F2937;
+    padding: 150px 200px 0px 350px;
+    text-align: start;
+}
+.name {
+    font-weight: 700;
+    align-self: flex-end;
+    padding-right: 200px;
+    padding-bottom: 100px;
 }
