@@ -137,13 +137,21 @@ a {
 .section-five {
     justify-content: center;
     align-items: center;
+    padding: 100px;
+    
 }
 .left-two {
     flex-direction: column;
+    color:#E5E7EB;
 }
 .contents {
     background-color: #3882F6;
+    padding: 40px 80px;
+    border-radius: 8px;
 }
 .signup-two {
     background-color: #3882F6;
+    color:#E5E7EB;
+    border-radius: 8px;
+    border: 2px solid #E5E7EB;
 }
