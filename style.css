@@ -131,3 +131,13 @@ a {
     padding-right: 200px;
     padding-bottom: 100px;
 }
+.section-five, .left-two, .signup-two, .contents {
+    display: flex
+}
+.section-five {
+    justify-content: center;
+    align-items: center;
+}
+.left-two {
+    flex-direction: column;
+}
