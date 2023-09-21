@@ -166,3 +166,8 @@ a {
     font-size: 24px;
     color: #F9FAF8;
 }
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
