@@ -141,3 +141,9 @@ a {
 .left-two {
     flex-direction: column;
 }
+.contents {
+    background-color: #3882F6;
+}
+.signup-two {
+    background-color: #3882F6;
+}
